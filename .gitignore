@@ -1,0 +1,13 @@
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Extracted dataset files; the compressed archive is versioned.
+data/*.npy
+
+# Generated model checkpoints.
+models/*.pth
+models/*.pt
+
